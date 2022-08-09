@@ -30,7 +30,7 @@
     <img src="[images/logo.png](https://media-exp1.licdn.com/dms/image/C4E0BAQGYzBhhaPcjxg/company-logo_200_200/0/1524774885532?e=1668038400&v=beta&t=HUID-O0bYuODCbamq24Ygfrp5MYtprwHzl2ZQsPEJKI)" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Node.js Practice</h3>
 
   <p align="center">
     project_description
@@ -38,10 +38,10 @@
     <a href="https://github.com/vaubrey7/Node.js_practice"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/github_vaubrey/Node.js_practice">View Demo</a>
     ·
-    <a href=https://github.com/vaubrey7/Node.js_practice/issues">Report Bug</a>
-    ·
+    <a href="https://github.com/vaubrey7/Node.js_practice/issues">Report Bug</a>
+    
     <a href="https://github.com/vaubrey7/Node.js_practice/issues">Request Feature</a>
   </p>
 </div>
