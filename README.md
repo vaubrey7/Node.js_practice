@@ -8,8 +8,10 @@
 *** Don't forget to give the project a star!
 *** Thanks again! Now go create something AMAZING! :D
 -->
-![]
-
+![](./images/2022-08-09%20(5).png)
+![](./images/2022-08-09%20(6).png)
+![](./images/2022-08-09%20(7).png)
+![](./images/2022-08-09%20(8).png)
 <!-- PROJECT SHIELDS -->
 <!--
 *** I'm using markdown "reference style" links for readability.
@@ -33,15 +35,15 @@
 <h3 align="center">Node.js Practice</h3>
 
   <p align="center">
-    project_description
+    An example of Node creating a .txt document
     <br />
     <a href="https://github.com/vaubrey7/Node.js_practice"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_vaubrey/Node.js_practice">View Demo</a>
+    <a href="https://github.com/github_username/repo_name">View Demo</a>
     ·
-    <a href="https://github.com/vaubrey7/Node.js_practice/issues">Report Bug</a>
-    
+    <a href=https://github.com/vaubrey7/Node.js_practice/issues">Report Bug</a>
+    ·
     <a href="https://github.com/vaubrey7/Node.js_practice/issues">Request Feature</a>
   </p>
 </div>
@@ -74,7 +76,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+
 
 Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `https://github.com/vaubrey7`, `Node.js_practice`, `twitter_handle`, `https://www.linkedin.com/in/vaughn-aubrey-123b97236/`, `vaubrey7@gmail.com`, `Node.js_practice`, `project_description`
 
