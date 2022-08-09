@@ -28,8 +28,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="[images/logo.png](https://media-exp1.licdn.com/dms/image/C4E0BAQGYzBhhaPcjxg/company-logo_200_200/0/1524774885532?e=1668038400&v=beta&t=HUID-O0bYuODCbamq24Ygfrp5MYtprwHzl2ZQsPEJKI)" alt="Logo" width="80" height="80">
+  <a href="https://github.com/vaubrey/Node.js_practice">
+    <img src="./images/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Node.js Practice</h3>
