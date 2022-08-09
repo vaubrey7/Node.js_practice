@@ -174,7 +174,7 @@ Vaughn Aubrey - https://www.linkedin.com/in/vaughn-aubrey-123b97236/ - vaubrey7@
 
 * [](University of Utah Coding Bootcamp)
 * [](My classmates summer class of 2022)
-* [](Johnathan our Proffesor and mentor.)
+* [](Johnathan Bajarano our Professor and mentor.)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
